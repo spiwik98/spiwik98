@@ -1,16 +1,22 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 👋
 
-<!--
-**spiwik98/spiwik98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 💼
+I am a passionate programmer and technology enthusiast. I specialize in Python programming and web development. My mission is continuous learning and expanding skills in the field of programming. 💻📚
 
-Here are some ideas to get you started:
+## Programming Skills 💻
+🐍 **Python:** I have experience in programming in Python, both at a basic and advanced level.  
+💻 **Web Development:** I am familiar with HTML, CSS, and JavaScript basics and have experience working with frameworks such as Django.  
+🔧 **Problem Solving:** I can efficiently analyze and solve various programming problems. 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Achievements 🏆
+1) Certificate for the Python Basics course from the Software Development Academy. 🎓  
+2) Certificate for the WordPress for Beginners course from LH.pl. 🌟
+
+## Projects 🚀
+1) **EatNOW!** 🍔📱  
+The Food Ordering Application is a web-based platform designed to facilitate the process of ordering food from various restaurants. Users can browse through a wide range of restaurants, view their menus, and place orders!
+
+More projects will be available here soon. Stay tuned for valuable updates! 🚀
+
+## Contact 📧
+If you're interested in collaboration or have any questions, feel free to reach out to me via Linkedin: (https://www.linkedin.com/in/wiktoria-spicha-junior-it-recruiter/)
