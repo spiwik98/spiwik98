@@ -15,6 +15,8 @@ I am a passionate programmer and technology enthusiast. I specialize in Python p
 ## Projects 🚀
 1) **EatNOW!** 🍔📱  
 The Food Ordering Application is a web-based platform designed to facilitate the process of ordering food from various restaurants. Users can browse through a wide range of restaurants, view their menus, and place orders!
+2) **AlienGame** 👾🚀
+It is a simple game written in Python using the Pygame library. In the game, the player controls a spaceship and must avoid aliens by shooting them to score points.
 
 More projects will be available here soon. Stay tuned for valuable updates! 🚀
 
