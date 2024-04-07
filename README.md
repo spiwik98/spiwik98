@@ -11,6 +11,7 @@ I am a passionate programmer and technology enthusiast. I specialize in Python p
 ## Achievements 🏆
 1) Certificate for the Python Basics course from the Software Development Academy. 🎓  
 2) Certificate for the WordPress for Beginners course from LH.pl. 🌟
+3) Certificate of Completion for the Linux Course. Video Course. Introduction to Console Work organized by videopoint.pl. 🐧
 
 ## Projects 🚀
 1) **EatNOW!** 🍔📱  
